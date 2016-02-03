@@ -1,0 +1,3 @@
+application.name: my-app
+some.global.property: hey, I've overridden the global property with prod data
+some.env.specific.property: myapp.specific.prod

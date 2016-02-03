@@ -1,0 +1,4 @@
+application.name: my-app
+some.global.property: hey, I've overridden the global property
+override.property: let me try to override this
+some.env.specific.property: myapp.specific.default
